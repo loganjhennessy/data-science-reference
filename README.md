@@ -7,6 +7,21 @@ Data Science Intensive and improved upon over the years.
 
 * [Anaconda](anaconda/installation.md)
 * [AWS](aws)
+* [High Performance Python](high-performance-python)
+* [Linear Algebra](linear-algebra)
+* [Mongo DB](mongoda)
+* [NLP](nlp)
+* [Pandas](pandas)
+* [Postgres](postgresql)
+* [Probability](probability)
+* [Python](python)
+* [Recommender Systems](recommender-systems)
+* [Sampling and Estimateion](sampling-and-estimation)
+* [SciPy Stats](scipy-stats)
+* [Spark](spark)
+* [SSH](ssh)
+* [Tensorflow](tensorflow)
+* [Time Series](time-series)
 
 ## Galvanize Reference Material
 
